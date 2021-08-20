@@ -30,17 +30,16 @@ const juliana = {
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=julie-ify&theme=radical" alt="Juliana" /></p>
 
+<h3 align="center">Let's Connect</h3>
+<div align="center">
 <a target="_blank"
 href="https://www.linkedin.com/in/juliana-ifionu-4a9492212/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
-
-<a target="_blank"
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:julieifionu@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
-<a target="_blank"
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
 href=" https://www.Twitter.com/eby"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
 
 
 <p>You can check out my portfolio <a href="https://julie-ify.github.io/Portfolio-Mobile-version/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>

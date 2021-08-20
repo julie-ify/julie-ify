@@ -12,7 +12,7 @@ const juliana = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
   askMeAbout: [Cooking, Entertainment, food recipes],
   challenge: "I am honing my React and Redux skills",
-  funFacts: ['I have 4 months of remote work experience with devs 
+  funFacts: ['I have 6 months of remote work experience with devs 
   from all over the world'],
   work: "Currently a Microverse student"
 }

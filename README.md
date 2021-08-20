@@ -30,7 +30,7 @@ const juliana = {
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=julie-ify&theme=radical" alt="Juliana" /></p>
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 <a target="_blank"
 href="https://www.linkedin.com/in/juliana-ifionu-4a9492212/"><img

@@ -10,7 +10,7 @@ const juliana = {
   mySkill: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
-  askMeAbout: [Cooking, Entertainment, food recipes],
+  askMeAbout: [Cooking, Entertainment, Food Recipes],
   challenge: "I am honing my React and Redux skills",
   funFacts: ['I have 6 months of remote work experience with devs 
   from all over the world'],

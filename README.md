@@ -7,7 +7,7 @@
 - 🌱 I'm honing my React and Redux skills
 - :book: love visuals and audio books
 - 👩‍🍳 I cook during my free time
-- 💪 I have 7 months of remote work experience with devs 
+- 💪 I have 8 months of remote work experience with devs 
   from all over the world
 
 

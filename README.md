@@ -1,5 +1,5 @@
 
-## Hi there, I'm Juliana..  
+## Hi there, I'm Juliana... 
 - 👩‍💻 pronouns: "she or her"
 - 🔭 I’m currently training to become a full-stack software developer.
 - 👩‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://github.com/microverseinc)

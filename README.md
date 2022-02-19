@@ -1,14 +1,14 @@
 
 ## Hi there, I'm Juliana... 
 - 👩‍💻 pronouns: "she or her"
-- 🔭 I’m currently training to become a full-stack software developer.
-- 👩‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://github.com/microverseinc)
-- :computer: Language stack: JavaScript, React, Ruby, Rails
-- 🌱 I'm honing my React and Redux skills
+- 🔭 I’m an industrious, hard-working and diligent full-stack software developer.
+- 👩‍🎓 I graduated from [Microverse Inc](https://github.com/microverseinc)
+- :computer: Language stack: JavaScript, React, Ruby, Rails.
+- 🌱 Over the years, I have worked in various roles where the need to be flexible have been vital.
+- 💡 My previous roles includes Mentorship, Teacher, Technical support engineer
 - :book: love visuals and audio books
 - 👩‍🍳 I cook during my free time
-- 💪 I have 7 months of remote work experience with devs 
-  from all over the world
+- 💪 I have 1+ years of remote work experience with devs from all over the world
 
 
 <!--START_SECTION:waka-->
@@ -36,4 +36,4 @@ href=" https://mobile.twitter.com/juliana_ifionu"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 
-<p align="left">You can check out my portfolio <a href="https://julie-ify.github.io/Portfolio/" color="green">here</a></p>
+<p align="left">You can check out my portfolio <a href="https://julie-ify.github.io/myportfolio/" color="green">here</a></p>

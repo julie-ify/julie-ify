@@ -6,7 +6,7 @@
 - :computer: Language stack: JavaScript, React, Ruby, Rails.
 - 🌱 Over the years, I have worked in various roles where the need to be flexible have been vital.
 - 💡 My previous roles includes Mentorship, Teacher, Technical support engineer
-- :book: love visuals and audio books
+- :book: I love visuals and audio books
 - 👩‍🍳 I cook during my free time
 - 💪 I have 1+ years of remote work experience with devs from all over the world
 
@@ -28,11 +28,11 @@
 <h3 align="left">Let's Connect 🤝</h3>
 <div align="left">
 <a target="_blank"
-href="https://www.linkedin.com/in/juliana-ifionu-4a9492212/"><img
+href="https://www.linkedin.com/in/e-ifionu/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:julieifionu@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href=" https://mobile.twitter.com/juliana_ifionu"><img
+href="https://twitter.com/juliana_ifionu"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 

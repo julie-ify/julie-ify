@@ -8,7 +8,7 @@
 - 💡 My previous roles includes Mentorship, Teacher, Technical support engineer
 - :book: I love visuals and audio books
 - 👩‍🍳 I cook during my free time
-- 💪 I have 1+ years of remote work experience with devs from all over the world
+- 💪 I have 2+ years of remote work experience with devs from all over the world
 
 
 <!--START_SECTION:waka-->

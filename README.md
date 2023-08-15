@@ -1,13 +1,13 @@
 
 ## Hi there, I'm Juliana... 
 - 👩‍💻 pronouns: "she or her"
-- 🔭 I’m an industrious, hard-working and diligent full-stack software developer.
+- 🔭 I’m an industrious, hard-working, and diligent full-stack software developer.
 - 👩‍🎓 I graduated from [Microverse Inc](https://github.com/microverseinc)
 - :computer: Language stack: JavaScript, React, Ruby, Rails.
-- 🌱 Over the years, I have worked in various roles where the need to be flexible have been vital.
-- 💡 My previous roles includes Mentorship, Teacher, Technical support engineer
-- :book: I love visuals and audio books
-- 👩‍🍳 I cook during my free time
+- 🌱 Over the years, I have worked in various roles where the need to be flexible has been vital.
+- 💡 My previous roles include Frontend, Backend, Full-stack, Mentorship, Teacher, Technical support engineer
+- :book: I love visuals and audiobooks
+- 👩‍🍳 I cook during my free time, and I exercise my brain during this time
 - 💪 I have 2+ years of remote work experience with devs from all over the world
 
 

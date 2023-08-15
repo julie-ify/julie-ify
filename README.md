@@ -3,7 +3,7 @@
 - 👩‍💻 pronouns: "she or her"
 - 🔭 I’m an industrious, hard-working, and diligent full-stack software developer.
 - 👩‍🎓 I graduated from [Microverse Inc](https://github.com/microverseinc)
-- :computer: Language stack: JavaScript, React, Ruby, Rails.
+- :computer: Tech stack: JavaScript, Node, Express, React, Ruby, Rails, PostgreSQL.
 - 🌱 Over the years, I have worked in various roles where the need to be flexible has been vital.
 - 💡 My previous roles include Frontend, Backend, Full-stack, Mentorship, Teacher, Technical support engineer
 - :book: I love visuals and audiobooks

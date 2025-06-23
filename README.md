@@ -3,9 +3,9 @@
 - 👩‍💻 pronouns: "she or her"
 - 🔭 I’m an industrious, hard-working, and diligent full-stack developer.
 - 👩‍🎓 I graduated from [Microverse Inc](https://github.com/microverseinc)
-- :computer: Tech stack: JavaScript, Node, Express, React, Ruby, Rails, PostgreSQL.
+- :computer: Tech stack: JavaScript, Node, Express, React, Ruby, Rails, PostgreSQL, Solidity.
 - 🌱 Over the years, I have worked in various roles where the need to be flexible has been vital.
-- 💡 My previous roles include Frontend & Backend development, Full-stack development, Mentoring, Teaching, Technical support engineering
+- 💡 My previous roles include Frontend & Backend development, Full-stack development, Mentoring, Teaching, and Technical support engineering
 - :book: I love visuals and audiobooks
 - 👩‍🍳 I cook during my free time, and I exercise my brain during this time
 - 💪 I have 3+ years of remote work experience with devs from all over the world

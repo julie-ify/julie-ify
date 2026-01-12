@@ -18,7 +18,7 @@
 <br>
 
 <h3 align="left">GitHub Statistics:</h3>
-<img src="https://github-readme-stats-seven-gilt.vercel.app/api?username=julie-ify&show_icons=true&theme=vue" />
+<img src="https://github-readme-stats.zcy.dev/api?username=julie-ify&show_icons=true&theme=vue" />
 
 <h3 align="left">Let's Connect 🤝</h3>
 <div align="left">
